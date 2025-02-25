@@ -1,4 +1,5 @@
-# This file includes the content of sculptureListLengths
+# Below are the contents of sculptureListLengths:
+```javascript
 { 
 name: 26, 
 artist: 20, 
@@ -83,3 +84,4 @@ description: 78,
 url: 31, 
 alt: 92 
 }
+```
